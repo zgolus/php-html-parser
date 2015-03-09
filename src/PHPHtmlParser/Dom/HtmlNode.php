@@ -201,5 +201,6 @@ class HtmlNode extends AbstractNode {
 		$this->innerHtml = null;
 		$this->outerHtml = null;
 		$this->text		 = null;
+        $this->textWithChildren = null;
 	}
 }
