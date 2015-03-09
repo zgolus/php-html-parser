@@ -16,5 +16,5 @@ class MockNode extends AbstractNode {
 
 	public function text() {}
 
-	protected function clear() {}
+	public function clear() {}
 }

@@ -93,7 +93,7 @@ class TextNode extends AbstractNode {
 	 * Call this when something in the node tree has changed. Like a child has been added
 	 * or a parent has been changed.
 	 */
-	protected function clear()
+	public function clear()
 	{
 		$this->convertedText = null;
 	}

@@ -671,5 +671,5 @@ abstract class AbstractNode {
 	 *
 	 * @return void
 	 */
-	abstract protected function clear();
+	abstract public function clear();
 }
