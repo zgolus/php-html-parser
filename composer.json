@@ -1,10 +1,10 @@
 {
-    "name": "paquettg/php-html-parser",
+    "name": "zgolus/paquettg-php-html-parser",
     "type": "library",
-    "description": "An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.",
+    "description": "An HTML DOM parser. Fork from paquettg/php-html-parser.",
     "version": "1.6.4",
     "keywords": ["html", "dom", "parser"],
-    "homepage": "https://github.com/paquettg/php-html-parser",
+    "homepage": "https://github.com/zgolus/php-html-parser",
     "license": "MIT",
     "authors": [
         {
